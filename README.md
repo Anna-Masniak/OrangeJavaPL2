@@ -1,2 +1,2 @@
 # OrangeJavaPL2
-Init new repo  for SpringBoot project
+First SpringBoot project
